@@ -12,11 +12,6 @@ Laravel + vue based POS application!
 * Run `php artisan migrate`
 * Run `php artisan db:demo` to run seeders.
 
-##Login admin user/pass:
-* login url: https://pos.dev.gainhq.com/login
-* Email: admin@demo.com
-* Pass: 123456
-
 ## Complete settings
 * Got to setting manu
 * Application setting: Set all the fields as your choice.
